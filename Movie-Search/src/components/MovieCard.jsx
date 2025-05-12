@@ -1,4 +1,3 @@
-
 function MovieCard({movie}){
     function click(){
         return;
